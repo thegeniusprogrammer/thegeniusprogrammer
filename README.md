@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/github/followers/thegeniusprogrammer?label=Follow&style=social)](https://github.com/thegeniusprogrammer)
 
 
-<img src="https://miro.medium.com/max/3200/0*fdcgLkFi3GdmNpWY">
+<img src="https://raw.githubusercontent.com/thegeniusprogrammer/thegeniusprogrammer/main/assets/Hello%2C%20we%20are%20%23geniuspragrammers.%20Nice%20to%20meet%20you..png">
 
 <h3 align="center">
 	<a href="https://thegeniusprogrammer.in/">Hi, I'm Vipin Sikarwar !</a>
