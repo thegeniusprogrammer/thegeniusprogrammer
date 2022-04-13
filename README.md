@@ -5,7 +5,7 @@
 <img src="https://miro.medium.com/max/3200/0*fdcgLkFi3GdmNpWY">
 
 <h3 align="center">
-	<a href="https://papayacoders.in/">Hi, I'm Shubham Pandey !</a>
+	<a href="https://papayacoders.in/">Hi, I'm Vipin Sikarwar !</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 
