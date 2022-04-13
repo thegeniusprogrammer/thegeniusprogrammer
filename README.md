@@ -13,8 +13,8 @@
 
 <h2 style="color:red"> Trying to write bug free code</h2>
 
-- 🔭 Working as Android development.
-- 🌱 Learning Advance Android Development.
+- 🔭 Working as Android developer.
+- 🌱 Learning Ktor Framework + Mongo DB.
 - 👯 I’m looking to make more friends.
 - 💬 Ask about Android Development / Java / Kotlin .
 - 📫 Reach : thegeniusprogrammer@gmail.com
